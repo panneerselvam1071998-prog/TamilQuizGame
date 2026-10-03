@@ -1,0 +1,12 @@
+{
+  "name": "Tamil Quiz Game",
+  "short_name": "Tamil Quiz",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#061426",
+  "theme_color": "#061426",
+  "description": "Tamil Quiz Game",
+  "icons": []
+}
