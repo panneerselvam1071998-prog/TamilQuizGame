@@ -8,5 +8,10 @@
   "background_color": "#061426",
   "theme_color": "#061426",
   "description": "Tamil Quiz Game",
-  "icons": []
+  "icons": [ {
+    "src": "boygirl.png",
+    "sizes": "1254x1254",
+    "type": "image/png",
+    "purpose": "any maskable"
+  }]
 }
